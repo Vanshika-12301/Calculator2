@@ -1,0 +1,13 @@
+table{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    background-color: bisque;
+}    
+input{
+    padding: 10px ;
+}
+table .td,button{
+   border-radius: 1px;
+   padding: 8px;
+} 
